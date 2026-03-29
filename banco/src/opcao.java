@@ -1,8 +1,8 @@
 class Opcao {
 
-    String name;
-    String passowrd;
-    double saldo;
+     String name ;
+     String password ;
+     double saldo ;
 
 
 }
