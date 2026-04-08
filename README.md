@@ -4,7 +4,7 @@ Projeto simples de um sistema bancário feito em Java para praticar lógica de p
 
 ## 🚀 Funcionalidades
 - Saque
-- Depósito (em desenvolvimento)
+- Depósito 
 - Consulta de saldo
 
 ## 🛠️ Tecnologias
