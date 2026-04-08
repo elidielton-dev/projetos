@@ -24,4 +24,4 @@ Projeto simples de um sistema bancário feito em Java para praticar lógica de p
    java Main
 
 ## 📌 Autor
-Elton
+Elidielton e Kauan Gustavo
